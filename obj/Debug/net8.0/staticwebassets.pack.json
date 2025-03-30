@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
+      "Id": "C:\\Users\\soumy\\source\\repos\\SoumyataJenaPortfolio\\SoumyataJenaPortfolio\\wwwroot\\404.html",
+      "PackagePath": "staticwebassets\\404.html"
+    },
+    {
       "Id": "C:\\Users\\soumy\\source\\repos\\SoumyataJenaPortfolio\\SoumyataJenaPortfolio\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },

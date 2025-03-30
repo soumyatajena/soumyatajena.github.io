@@ -1,0 +1,2 @@
+C:\Users\soumy\source\repos\SoumyataJenaPortfolio\SoumyataJenaPortfolio\docs\emcc-props.json
+C:\Users\soumy\source\repos\SoumyataJenaPortfolio\SoumyataJenaPortfolio\docs\web.config
