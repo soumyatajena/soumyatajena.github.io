@@ -1035,7 +1035,7 @@ C:\Users\soumy\source\repos\SoumyataJenaPortfolio\SoumyataJenaPortfolio\bin\Debu
 C:\Users\soumy\source\repos\SoumyataJenaPortfolio\SoumyataJenaPortfolio\bin\Debug\net8.0\docs\SoumyataJenaPortfolio.staticwebassets.endpoints.json
 C:\Users\soumy\source\repos\SoumyataJenaPortfolio\SoumyataJenaPortfolio\bin\Debug\net8.0\docs\_framework\blazor.boot.json
 C:\Users\soumy\source\repos\SoumyataJenaPortfolio\SoumyataJenaPortfolio\obj\Debug\net8.0\SoumyataJenaPortfolio.sourcelink.json
-C:\Users\soumy\source\repos\SoumyataJenaPortfolio\SoumyataJenaPortfolio\obj\Debug\net8.0\compressed\g7sebzm84z-n6utawjjq2.gz
-C:\Users\soumy\source\repos\SoumyataJenaPortfolio\SoumyataJenaPortfolio\obj\Debug\net8.0\compressed\vq18x4zqvz-m8m91y3trn.gz
-C:\Users\soumy\source\repos\SoumyataJenaPortfolio\SoumyataJenaPortfolio\obj\Debug\net8.0\compressed\33obg2iim0-6c9bfabntp.gz
 C:\Users\soumy\source\repos\SoumyataJenaPortfolio\SoumyataJenaPortfolio\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\soumy\source\repos\SoumyataJenaPortfolio\SoumyataJenaPortfolio\obj\Debug\net8.0\compressed\g7sebzm84z-qnjdr5yw2d.gz
+C:\Users\soumy\source\repos\SoumyataJenaPortfolio\SoumyataJenaPortfolio\obj\Debug\net8.0\compressed\vq18x4zqvz-x9p8u5n5ag.gz
+C:\Users\soumy\source\repos\SoumyataJenaPortfolio\SoumyataJenaPortfolio\obj\Debug\net8.0\compressed\33obg2iim0-5c6u8a6i8k.gz

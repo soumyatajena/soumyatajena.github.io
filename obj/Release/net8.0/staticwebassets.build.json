@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zVg/oO4jLta2P4BzYMfSHpnImqVWl7akAa0Okz4tI34=",
+  "Hash": "fequaPDSf9Yi6j5rNSZMYzfNrowErk9ReZ1YcyovIz8=",
   "Source": "SoumyataJenaPortfolio",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "r5e7m88pjr",
-      "Integrity": "b/kJxMrX5fQVdtUEzHvcXgD+gNwdh9v5dyagAMAxi3A=",
+      "Fingerprint": "tmolrxu7il",
+      "Integrity": "9S5goDMP1mYPffnUT3tgBHpC/JBO54DVFOcSEhjBb+c=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Release\\net8.0\\blazor.boot.json"
@@ -892,8 +892,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "bswcuey4yj",
-      "Integrity": "BdnpLSWEmQO896bol8tGOjYVfl0Bf5pfaLrPLs3ie+k=",
+      "Fingerprint": "a7m3v97t7v",
+      "Integrity": "2nnJ1nrSQWW8iNr8rw+aatuXV1YVl3YxLm0bnXxgdZM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Release\\net8.0\\SoumyataJenaPortfolio.pdb"
@@ -913,8 +913,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "1vxfl8doew",
-      "Integrity": "LX5Cvb3vcC18hchWOSaVMZ56a7fCw6Nl6MnBiN1BKBA=",
+      "Fingerprint": "qftv57li3o",
+      "Integrity": "xhdh+935gdt/1p9PBdYYiaUgjbqk5lJpFyvhIqxrXUQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\soumy\\source\\repos\\SoumyataJenaPortfolio\\SoumyataJenaPortfolio\\obj\\Release\\net8.0\\webcil\\SoumyataJenaPortfolio.wasm"
@@ -4574,7 +4574,7 @@
       "OriginalItemSpec": "C:\\Users\\soumy\\source\\repos\\SoumyataJenaPortfolio\\SoumyataJenaPortfolio\\bin\\Release\\net8.0\\wwwroot\\_framework\\System.Net.Sockets.wasm"
     },
     {
-      "Identity": "C:\\Users\\soumy\\source\\repos\\SoumyataJenaPortfolio\\SoumyataJenaPortfolio\\obj\\Release\\net8.0\\compressed\\33obg2iim0-r5e7m88pjr.gz",
+      "Identity": "C:\\Users\\soumy\\source\\repos\\SoumyataJenaPortfolio\\SoumyataJenaPortfolio\\obj\\Release\\net8.0\\compressed\\33obg2iim0-tmolrxu7il.gz",
       "SourceId": "SoumyataJenaPortfolio",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\soumy\\source\\repos\\SoumyataJenaPortfolio\\SoumyataJenaPortfolio\\obj\\Release\\net8.0\\compressed\\",
@@ -4588,8 +4588,8 @@
       "RelatedAsset": "C:\\Users\\soumy\\source\\repos\\SoumyataJenaPortfolio\\SoumyataJenaPortfolio\\bin\\Release\\net8.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "2ra9oyvb7j",
-      "Integrity": "ri4KUEz4VZFQj3pJx/2C/CyuYvFJP7Q6YQEXUyLlti8=",
+      "Fingerprint": "uw41dmf6eg",
+      "Integrity": "HoTN0a55MIAkyiPlyAIFgbRG2umCkyps6wk0X77LyQw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\soumy\\source\\repos\\SoumyataJenaPortfolio\\SoumyataJenaPortfolio\\bin\\Release\\net8.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -6254,7 +6254,7 @@
       "OriginalItemSpec": "C:\\Users\\soumy\\source\\repos\\SoumyataJenaPortfolio\\SoumyataJenaPortfolio\\bin\\Release\\net8.0\\wwwroot\\_framework\\System.Globalization.wasm"
     },
     {
-      "Identity": "C:\\Users\\soumy\\source\\repos\\SoumyataJenaPortfolio\\SoumyataJenaPortfolio\\obj\\Release\\net8.0\\compressed\\g7sebzm84z-1vxfl8doew.gz",
+      "Identity": "C:\\Users\\soumy\\source\\repos\\SoumyataJenaPortfolio\\SoumyataJenaPortfolio\\obj\\Release\\net8.0\\compressed\\g7sebzm84z-qftv57li3o.gz",
       "SourceId": "SoumyataJenaPortfolio",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\soumy\\source\\repos\\SoumyataJenaPortfolio\\SoumyataJenaPortfolio\\obj\\Release\\net8.0\\compressed\\",
@@ -6268,8 +6268,8 @@
       "RelatedAsset": "C:\\Users\\soumy\\source\\repos\\SoumyataJenaPortfolio\\SoumyataJenaPortfolio\\bin\\Release\\net8.0\\wwwroot\\_framework\\SoumyataJenaPortfolio.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "3y0q2fq523",
-      "Integrity": "S0XixbSYgCVkErEI/jp4RDHPglhuVp+Hxvl5PzxZHQs=",
+      "Fingerprint": "6talfd6iss",
+      "Integrity": "+sxAdhlw660xOVt0mnHdQv9OPiMRpchgHSTumgZuLM0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\soumy\\source\\repos\\SoumyataJenaPortfolio\\SoumyataJenaPortfolio\\bin\\Release\\net8.0\\wwwroot\\_framework\\SoumyataJenaPortfolio.wasm"
@@ -8186,7 +8186,7 @@
       "OriginalItemSpec": "C:\\Users\\soumy\\source\\repos\\SoumyataJenaPortfolio\\SoumyataJenaPortfolio\\bin\\Release\\net8.0\\wwwroot\\_framework\\System.ComponentModel.DataAnnotations.wasm"
     },
     {
-      "Identity": "C:\\Users\\soumy\\source\\repos\\SoumyataJenaPortfolio\\SoumyataJenaPortfolio\\obj\\Release\\net8.0\\compressed\\vq18x4zqvz-bswcuey4yj.gz",
+      "Identity": "C:\\Users\\soumy\\source\\repos\\SoumyataJenaPortfolio\\SoumyataJenaPortfolio\\obj\\Release\\net8.0\\compressed\\vq18x4zqvz-a7m3v97t7v.gz",
       "SourceId": "SoumyataJenaPortfolio",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\soumy\\source\\repos\\SoumyataJenaPortfolio\\SoumyataJenaPortfolio\\obj\\Release\\net8.0\\compressed\\",
@@ -8200,8 +8200,8 @@
       "RelatedAsset": "C:\\Users\\soumy\\source\\repos\\SoumyataJenaPortfolio\\SoumyataJenaPortfolio\\bin\\Release\\net8.0\\wwwroot\\_framework\\SoumyataJenaPortfolio.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "7emm19tn3l",
-      "Integrity": "IfCybRR4bf26M1cp7Ad+A3unnxfNpt8vduMCqMBjhM0=",
+      "Fingerprint": "biuhk2f9wz",
+      "Integrity": "s8AQzdfpwF56JX02Cp02u8I+/8VONDDQndDQcsMj0Ec=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\soumy\\source\\repos\\SoumyataJenaPortfolio\\SoumyataJenaPortfolio\\bin\\Release\\net8.0\\wwwroot\\_framework\\SoumyataJenaPortfolio.pdb"
@@ -8704,8 +8704,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "4t4epvdt2s",
-      "Integrity": "2LSXo8aG1zYuDGtHqaZmJhGhWp+yGSqxYCY/VIOOb1s=",
+      "Fingerprint": "dltxz9w0cr",
+      "Integrity": "7yRdmWg9qISj7zmSjnpaozIGEygh0rk0w0kZqe0notc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -8731,11 +8731,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"b/kJxMrX5fQVdtUEzHvcXgD+gNwdh9v5dyagAMAxi3A=\""
+          "Value": "\"9S5goDMP1mYPffnUT3tgBHpC/JBO54DVFOcSEhjBb+c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 22:50:02 GMT"
+          "Value": "Sun, 30 Mar 2025 23:17:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8745,18 +8745,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-b/kJxMrX5fQVdtUEzHvcXgD+gNwdh9v5dyagAMAxi3A="
+          "Value": "sha256-9S5goDMP1mYPffnUT3tgBHpC/JBO54DVFOcSEhjBb+c="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\soumy\\source\\repos\\SoumyataJenaPortfolio\\SoumyataJenaPortfolio\\obj\\Release\\net8.0\\compressed\\33obg2iim0-r5e7m88pjr.gz",
+      "AssetFile": "C:\\Users\\soumy\\source\\repos\\SoumyataJenaPortfolio\\SoumyataJenaPortfolio\\obj\\Release\\net8.0\\compressed\\33obg2iim0-tmolrxu7il.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000115048320"
+          "Quality": "0.000115008626"
         }
       ],
       "ResponseHeaders": [
@@ -8766,15 +8766,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8691"
+          "Value": "8694"
         },
         {
           "Name": "ETag",
-          "Value": "\"ri4KUEz4VZFQj3pJx/2C/CyuYvFJP7Q6YQEXUyLlti8=\""
+          "Value": "\"HoTN0a55MIAkyiPlyAIFgbRG2umCkyps6wk0X77LyQw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 22:47:44 GMT"
+          "Value": "Sun, 30 Mar 2025 23:16:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8794,19 +8794,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"b/kJxMrX5fQVdtUEzHvcXgD+gNwdh9v5dyagAMAxi3A=\""
+          "Value": "W/\"9S5goDMP1mYPffnUT3tgBHpC/JBO54DVFOcSEhjBb+c=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-b/kJxMrX5fQVdtUEzHvcXgD+gNwdh9v5dyagAMAxi3A="
+          "Value": "sha256-9S5goDMP1mYPffnUT3tgBHpC/JBO54DVFOcSEhjBb+c="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\soumy\\source\\repos\\SoumyataJenaPortfolio\\SoumyataJenaPortfolio\\obj\\Release\\net8.0\\compressed\\33obg2iim0-r5e7m88pjr.gz",
+      "AssetFile": "C:\\Users\\soumy\\source\\repos\\SoumyataJenaPortfolio\\SoumyataJenaPortfolio\\obj\\Release\\net8.0\\compressed\\33obg2iim0-tmolrxu7il.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8815,7 +8815,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8691"
+          "Value": "8694"
         },
         {
           "Name": "Content-Type",
@@ -8823,11 +8823,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ri4KUEz4VZFQj3pJx/2C/CyuYvFJP7Q6YQEXUyLlti8=\""
+          "Value": "\"HoTN0a55MIAkyiPlyAIFgbRG2umCkyps6wk0X77LyQw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 22:47:44 GMT"
+          "Value": "Sun, 30 Mar 2025 23:16:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8845,7 +8845,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ri4KUEz4VZFQj3pJx/2C/CyuYvFJP7Q6YQEXUyLlti8="
+          "Value": "sha256-HoTN0a55MIAkyiPlyAIFgbRG2umCkyps6wk0X77LyQw="
         }
       ]
     },
@@ -14348,11 +14348,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BdnpLSWEmQO896bol8tGOjYVfl0Bf5pfaLrPLs3ie+k=\""
+          "Value": "\"2nnJ1nrSQWW8iNr8rw+aatuXV1YVl3YxLm0bnXxgdZM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 22:47:44 GMT"
+          "Value": "Sun, 30 Mar 2025 23:16:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14362,18 +14362,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BdnpLSWEmQO896bol8tGOjYVfl0Bf5pfaLrPLs3ie+k="
+          "Value": "sha256-2nnJ1nrSQWW8iNr8rw+aatuXV1YVl3YxLm0bnXxgdZM="
         }
       ]
     },
     {
       "Route": "_framework/SoumyataJenaPortfolio.pdb",
-      "AssetFile": "C:\\Users\\soumy\\source\\repos\\SoumyataJenaPortfolio\\SoumyataJenaPortfolio\\obj\\Release\\net8.0\\compressed\\vq18x4zqvz-bswcuey4yj.gz",
+      "AssetFile": "C:\\Users\\soumy\\source\\repos\\SoumyataJenaPortfolio\\SoumyataJenaPortfolio\\obj\\Release\\net8.0\\compressed\\vq18x4zqvz-a7m3v97t7v.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000087039777"
+          "Quality": "0.000087047354"
         }
       ],
       "ResponseHeaders": [
@@ -14383,15 +14383,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11488"
+          "Value": "11487"
         },
         {
           "Name": "ETag",
-          "Value": "\"IfCybRR4bf26M1cp7Ad+A3unnxfNpt8vduMCqMBjhM0=\""
+          "Value": "\"s8AQzdfpwF56JX02Cp02u8I+/8VONDDQndDQcsMj0Ec=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 22:47:44 GMT"
+          "Value": "Sun, 30 Mar 2025 23:16:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14411,19 +14411,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"BdnpLSWEmQO896bol8tGOjYVfl0Bf5pfaLrPLs3ie+k=\""
+          "Value": "W/\"2nnJ1nrSQWW8iNr8rw+aatuXV1YVl3YxLm0bnXxgdZM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BdnpLSWEmQO896bol8tGOjYVfl0Bf5pfaLrPLs3ie+k="
+          "Value": "sha256-2nnJ1nrSQWW8iNr8rw+aatuXV1YVl3YxLm0bnXxgdZM="
         }
       ]
     },
     {
       "Route": "_framework/SoumyataJenaPortfolio.pdb.gz",
-      "AssetFile": "C:\\Users\\soumy\\source\\repos\\SoumyataJenaPortfolio\\SoumyataJenaPortfolio\\obj\\Release\\net8.0\\compressed\\vq18x4zqvz-bswcuey4yj.gz",
+      "AssetFile": "C:\\Users\\soumy\\source\\repos\\SoumyataJenaPortfolio\\SoumyataJenaPortfolio\\obj\\Release\\net8.0\\compressed\\vq18x4zqvz-a7m3v97t7v.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14432,7 +14432,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11488"
+          "Value": "11487"
         },
         {
           "Name": "Content-Type",
@@ -14440,11 +14440,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"IfCybRR4bf26M1cp7Ad+A3unnxfNpt8vduMCqMBjhM0=\""
+          "Value": "\"s8AQzdfpwF56JX02Cp02u8I+/8VONDDQndDQcsMj0Ec=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 22:47:44 GMT"
+          "Value": "Sun, 30 Mar 2025 23:16:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14462,7 +14462,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-IfCybRR4bf26M1cp7Ad+A3unnxfNpt8vduMCqMBjhM0="
+          "Value": "sha256-s8AQzdfpwF56JX02Cp02u8I+/8VONDDQndDQcsMj0Ec="
         }
       ]
     },
@@ -14477,7 +14477,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10517"
+          "Value": "10005"
         },
         {
           "Name": "Content-Type",
@@ -14485,11 +14485,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LX5Cvb3vcC18hchWOSaVMZ56a7fCw6Nl6MnBiN1BKBA=\""
+          "Value": "\"xhdh+935gdt/1p9PBdYYiaUgjbqk5lJpFyvhIqxrXUQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 22:47:44 GMT"
+          "Value": "Sun, 30 Mar 2025 23:16:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14499,18 +14499,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-LX5Cvb3vcC18hchWOSaVMZ56a7fCw6Nl6MnBiN1BKBA="
+          "Value": "sha256-xhdh+935gdt/1p9PBdYYiaUgjbqk5lJpFyvhIqxrXUQ="
         }
       ]
     },
     {
       "Route": "_framework/SoumyataJenaPortfolio.wasm",
-      "AssetFile": "C:\\Users\\soumy\\source\\repos\\SoumyataJenaPortfolio\\SoumyataJenaPortfolio\\obj\\Release\\net8.0\\compressed\\g7sebzm84z-1vxfl8doew.gz",
+      "AssetFile": "C:\\Users\\soumy\\source\\repos\\SoumyataJenaPortfolio\\SoumyataJenaPortfolio\\obj\\Release\\net8.0\\compressed\\g7sebzm84z-qftv57li3o.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000217296827"
+          "Quality": "0.000220507166"
         }
       ],
       "ResponseHeaders": [
@@ -14520,15 +14520,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4601"
+          "Value": "4534"
         },
         {
           "Name": "ETag",
-          "Value": "\"S0XixbSYgCVkErEI/jp4RDHPglhuVp+Hxvl5PzxZHQs=\""
+          "Value": "\"+sxAdhlw660xOVt0mnHdQv9OPiMRpchgHSTumgZuLM0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 22:47:44 GMT"
+          "Value": "Sun, 30 Mar 2025 23:16:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14548,19 +14548,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"LX5Cvb3vcC18hchWOSaVMZ56a7fCw6Nl6MnBiN1BKBA=\""
+          "Value": "W/\"xhdh+935gdt/1p9PBdYYiaUgjbqk5lJpFyvhIqxrXUQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-LX5Cvb3vcC18hchWOSaVMZ56a7fCw6Nl6MnBiN1BKBA="
+          "Value": "sha256-xhdh+935gdt/1p9PBdYYiaUgjbqk5lJpFyvhIqxrXUQ="
         }
       ]
     },
     {
       "Route": "_framework/SoumyataJenaPortfolio.wasm.gz",
-      "AssetFile": "C:\\Users\\soumy\\source\\repos\\SoumyataJenaPortfolio\\SoumyataJenaPortfolio\\obj\\Release\\net8.0\\compressed\\g7sebzm84z-1vxfl8doew.gz",
+      "AssetFile": "C:\\Users\\soumy\\source\\repos\\SoumyataJenaPortfolio\\SoumyataJenaPortfolio\\obj\\Release\\net8.0\\compressed\\g7sebzm84z-qftv57li3o.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14569,7 +14569,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4601"
+          "Value": "4534"
         },
         {
           "Name": "Content-Type",
@@ -14577,11 +14577,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"S0XixbSYgCVkErEI/jp4RDHPglhuVp+Hxvl5PzxZHQs=\""
+          "Value": "\"+sxAdhlw660xOVt0mnHdQv9OPiMRpchgHSTumgZuLM0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 22:47:44 GMT"
+          "Value": "Sun, 30 Mar 2025 23:16:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14599,7 +14599,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-S0XixbSYgCVkErEI/jp4RDHPglhuVp+Hxvl5PzxZHQs="
+          "Value": "sha256-+sxAdhlw660xOVt0mnHdQv9OPiMRpchgHSTumgZuLM0="
         }
       ]
     },
@@ -37044,7 +37044,7 @@
       ]
     },
     {
-      "Route": "index.4t4epvdt2s.html",
+      "Route": "index.dltxz9w0cr.html",
       "AssetFile": "C:\\Users\\soumy\\source\\repos\\SoumyataJenaPortfolio\\SoumyataJenaPortfolio\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -37054,7 +37054,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "964"
+          "Value": "1074"
         },
         {
           "Name": "Content-Type",
@@ -37062,11 +37062,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2LSXo8aG1zYuDGtHqaZmJhGhWp+yGSqxYCY/VIOOb1s=\""
+          "Value": "\"7yRdmWg9qISj7zmSjnpaozIGEygh0rk0w0kZqe0notc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 22:41:09 GMT"
+          "Value": "Sun, 30 Mar 2025 23:14:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37076,7 +37076,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4t4epvdt2s"
+          "Value": "dltxz9w0cr"
         },
         {
           "Name": "label",
@@ -37084,7 +37084,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-2LSXo8aG1zYuDGtHqaZmJhGhWp+yGSqxYCY/VIOOb1s="
+          "Value": "sha256-7yRdmWg9qISj7zmSjnpaozIGEygh0rk0w0kZqe0notc="
         }
       ]
     },
@@ -37099,7 +37099,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "964"
+          "Value": "1074"
         },
         {
           "Name": "Content-Type",
@@ -37107,11 +37107,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2LSXo8aG1zYuDGtHqaZmJhGhWp+yGSqxYCY/VIOOb1s=\""
+          "Value": "\"7yRdmWg9qISj7zmSjnpaozIGEygh0rk0w0kZqe0notc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 22:41:09 GMT"
+          "Value": "Sun, 30 Mar 2025 23:14:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37121,7 +37121,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-2LSXo8aG1zYuDGtHqaZmJhGhWp+yGSqxYCY/VIOOb1s="
+          "Value": "sha256-7yRdmWg9qISj7zmSjnpaozIGEygh0rk0w0kZqe0notc="
         }
       ]
     }

@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "SoumyataJenaPortfolio",
   "resources": {
-    "hash": "sha256-TrHlXvDLk/+MFrhYk8pqoY138lDUQKZ4jnMyoH+o0go=",
+    "hash": "sha256-u6HMnH1NapiZKh4qUCnvIT15EgdrjQlD3iXDjDXmAMQ=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-xNQsYHtL1vcbrVTHDZAwJM4WovpoyjsrM2C6FQ8cW1w="
     },
@@ -209,10 +209,10 @@
       "mscorlib.wasm": "sha256-RAf5jgXLg+06C4tJ3CabxAZaVjCN2/+E6fxRjRN8yHk=",
       "netstandard.wasm": "sha256-KCAE8RQwTurP5pGnGF819qf9sK++2O0rXzt6tOjlfi8=",
       "System.Private.CoreLib.wasm": "sha256-LQqLbHgeEX4HONx7GwIxGgmzIXP6n2OPxqnq+/4Tyqk=",
-      "SoumyataJenaPortfolio.wasm": "sha256-8QfHjKRHQLSvXu4VqPk/NddUXr3UrMDV4LFYlH3QiWY="
+      "SoumyataJenaPortfolio.wasm": "sha256-xvPwvuwNQVRKd/XeTNcn7/2oqc5lnbug1FHh+WVJ+lU="
     },
     "pdb": {
-      "SoumyataJenaPortfolio.pdb": "sha256-Kk4EW6OP3AXr67WKShEkx6cdfAIzkXTp2HcEkI388Iw="
+      "SoumyataJenaPortfolio.pdb": "sha256-Cww4JTfabj6X/AU7wNoOW0tiXMS00A7ihdp6vRVqcdI="
     }
   },
   "cacheBootResources": true,

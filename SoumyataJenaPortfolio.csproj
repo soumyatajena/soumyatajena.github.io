@@ -4,8 +4,8 @@
 		<TargetFramework>net8.0</TargetFramework>
 		<Nullable>enable</Nullable>
 		<ImplicitUsings>enable</ImplicitUsings>
-		<PublishRepositoryUrl>true</PublishRepositoryUrl>
-		<PublishUrl>docs</PublishUrl>
+		<PublishDir>docs</PublishDir>
+		<BlazorWebAssemblyBasePath>/</BlazorWebAssemblyBasePath><!-- Root path -->
 	</PropertyGroup>
 
 	<ItemGroup>
