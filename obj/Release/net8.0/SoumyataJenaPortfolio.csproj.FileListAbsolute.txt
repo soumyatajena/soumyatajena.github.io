@@ -1031,6 +1031,6 @@ C:\Users\soumy\source\repos\SoumyataJenaPortfolio\SoumyataJenaPortfolio\obj\Rele
 C:\Users\soumy\source\repos\SoumyataJenaPortfolio\SoumyataJenaPortfolio\obj\Release\net8.0\refint\SoumyataJenaPortfolio.dll
 C:\Users\soumy\source\repos\SoumyataJenaPortfolio\SoumyataJenaPortfolio\obj\Release\net8.0\SoumyataJenaPortfolio.pdb
 C:\Users\soumy\source\repos\SoumyataJenaPortfolio\SoumyataJenaPortfolio\obj\Release\net8.0\ref\SoumyataJenaPortfolio.dll
-C:\Users\soumy\source\repos\SoumyataJenaPortfolio\SoumyataJenaPortfolio\obj\Release\net8.0\compressed\g7sebzm84z-zb57rlxggl.gz
-C:\Users\soumy\source\repos\SoumyataJenaPortfolio\SoumyataJenaPortfolio\obj\Release\net8.0\compressed\vq18x4zqvz-qc4kfltokk.gz
-C:\Users\soumy\source\repos\SoumyataJenaPortfolio\SoumyataJenaPortfolio\obj\Release\net8.0\compressed\33obg2iim0-82dc05bvrc.gz
+C:\Users\soumy\source\repos\SoumyataJenaPortfolio\SoumyataJenaPortfolio\obj\Release\net8.0\compressed\g7sebzm84z-t8h2cvawdz.gz
+C:\Users\soumy\source\repos\SoumyataJenaPortfolio\SoumyataJenaPortfolio\obj\Release\net8.0\compressed\vq18x4zqvz-dlr2ugzned.gz
+C:\Users\soumy\source\repos\SoumyataJenaPortfolio\SoumyataJenaPortfolio\obj\Release\net8.0\compressed\33obg2iim0-ldp8wi8x2f.gz

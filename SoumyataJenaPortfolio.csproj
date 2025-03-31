@@ -5,7 +5,8 @@
 		<Nullable>enable</Nullable>
 		<ImplicitUsings>enable</ImplicitUsings>
 		<PublishDir>docs</PublishDir>
-		<BlazorWebAssemblyBasePath>/</BlazorWebAssemblyBasePath><!-- Root path -->
+		<BlazorWebAssemblyBasePath>/</BlazorWebAssemblyBasePath>
+		<StaticWebAssetBasePath>/</StaticWebAssetBasePath>
 	</PropertyGroup>
 
 	<ItemGroup>
