@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PersonalWebsite</title><link>https://soumyatajena.github.io/</link><description>Recent content on PersonalWebsite</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 07 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://soumyatajena.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me 💫</title><link>https://soumyatajena.github.io/about/</link><pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate><guid>https://soumyatajena.github.io/about/</guid><description>&lt;p>Hi there! I&amp;rsquo;m &lt;b>Soumyata Jena&lt;/b> 🙋‍♀️ — a passionate, curious, and impact-driven &lt;b>.NET Developer&lt;/b> 👩‍💻 with nearly &lt;b>6 years&lt;/b> of experience building sleek, scalable web apps using &lt;b>C#, ASP.NET Core, Blazor, SQL Server, and Azure&lt;/b> ☁️.&lt;/p>
-&lt;p>I specialize in bringing ideas to life through clean architecture and intuitive UX. Whether it’s building a full-stack solution or diving deep into cloud-native services, I thrive on solving real-world problems with &lt;b>modern web technologies&lt;/b> 💡.&lt;/p></description></item><item><title>Blog</title><link>https://soumyatajena.github.io/posts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://soumyatajena.github.io/posts/</guid><description>&lt;h2 id="medium">
- Medium
- &lt;a class="heading-link" href="#medium">
+&lt;p>I specialize in bringing ideas to life through clean architecture and intuitive UX. Whether it’s building a full-stack solution or diving deep into cloud-native services, I thrive on solving real-world problems with &lt;b>modern web technologies&lt;/b> 💡.&lt;/p></description></item><item><title>Blog</title><link>https://soumyatajena.github.io/posts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://soumyatajena.github.io/posts/</guid><description>&lt;h2 id="1-medium">
+ 1. Medium
+ &lt;a class="heading-link" href="#1-medium">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
 &lt;/h2>
 &lt;p>Feel free to fork, clone, and build upon this setup. Happy building! 🚀&lt;/p>
-&lt;p>Check out my code here:
-📂 Blog Repo: &lt;a href="https://github.com/soumyatajena/blog" class="external-link" target="_blank" rel="noopener">https://github.com/soumyatajena/blog&lt;/a>
-🌐 Live Site: &lt;a href="https://soumyatajena.github.io/" class="external-link" target="_blank" rel="noopener">https://soumyatajena.github.io/&lt;/a>
-📙 Medium: &lt;a href="https://medium.com/@soumyatajena/setting-up-a-website-using-hugo-and-github-on-windows-d161c5bc7648" class="external-link" target="_blank" rel="noopener">https://medium.com/@soumyatajena/setting-up-a-website-using-hugo-and-github-on-windows-d161c5bc7648&lt;/a>&lt;/p></description></item><item><title>Contact</title><link>https://soumyatajena.github.io/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://soumyatajena.github.io/contact/</guid><description>&lt;h1 id="contact-me">
+&lt;p>Check out my code here:&lt;/p>
+&lt;p>📂 Blog Repo: &lt;a href="https://github.com/soumyatajena/blog" class="external-link" target="_blank" rel="noopener">https://github.com/soumyatajena/blog&lt;/a>&lt;/p>
+&lt;p>🌐 Live Site: &lt;a href="https://soumyatajena.github.io/" class="external-link" target="_blank" rel="noopener">https://soumyatajena.github.io/&lt;/a>&lt;/p>
+&lt;p>📙 Medium: &lt;a href="https://medium.com/@soumyatajena/setting-up-a-website-using-hugo-and-github-on-windows-d161c5bc7648" class="external-link" target="_blank" rel="noopener">https://medium.com/@soumyatajena/setting-up-a-website-using-hugo-and-github-on-windows-d161c5bc7648&lt;/a>&lt;/p></description></item><item><title>Contact</title><link>https://soumyatajena.github.io/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://soumyatajena.github.io/contact/</guid><description>&lt;h1 id="contact-me">
  Contact Me
  &lt;a class="heading-link" href="#contact-me">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
