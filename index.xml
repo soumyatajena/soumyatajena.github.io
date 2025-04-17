@@ -11,10 +11,24 @@
 &lt;p>📂 Blog Repo: &lt;a href="https://github.com/soumyatajena/blog" class="external-link" target="_blank" rel="noopener">https://github.com/soumyatajena/blog&lt;/a>&lt;/p>
 &lt;p>🌐 Live Site: &lt;a href="https://soumyatajena.github.io/" class="external-link" target="_blank" rel="noopener">https://soumyatajena.github.io/&lt;/a>&lt;/p>
 &lt;p>📙 Medium:&lt;/p>
-&lt;ol>
-&lt;li>&lt;a href="https://medium.com/@soumyatajena/setting-up-a-website-using-hugo-and-github-on-windows-d161c5bc7648" class="external-link" target="_blank" rel="noopener">https://medium.com/@soumyatajena/setting-up-a-website-using-hugo-and-github-on-windows-d161c5bc7648&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://medium.com/@soumyatajena/ship-your-net-core-api-with-docker-and-github-actions-the-easy-way-6d04f6fa3494" class="external-link" target="_blank" rel="noopener">https://medium.com/@soumyatajena/ship-your-net-core-api-with-docker-and-github-actions-the-easy-way-6d04f6fa3494&lt;/a>&lt;/li>
-&lt;/ol></description></item><item><title>Contact</title><link>https://soumyatajena.github.io/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://soumyatajena.github.io/contact/</guid><description>&lt;h1 id="contact-me">
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Project&lt;/th>
+ &lt;th>Url&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Hugo Website&lt;/td>
+ &lt;td>&lt;a href="https://medium.com/@soumyatajena/setting-up-a-website-using-hugo-and-github-on-windows-d161c5bc7648" class="external-link" target="_blank" rel="noopener">https://medium.com/@soumyatajena/setting-up-a-website-using-hugo-and-github-on-windows-d161c5bc7648&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>CI/CD Pipeline&lt;/td>
+ &lt;td>&lt;a href="https://medium.com/@soumyatajena/ship-your-net-core-api-with-docker-and-github-actions-the-easy-way-6d04f6fa3494" class="external-link" target="_blank" rel="noopener">https://medium.com/@soumyatajena/ship-your-net-core-api-with-docker-and-github-actions-the-easy-way-6d04f6fa3494&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title>Contact</title><link>https://soumyatajena.github.io/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://soumyatajena.github.io/contact/</guid><description>&lt;h1 id="contact-me">
  Contact Me
  &lt;a class="heading-link" href="#contact-me">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
@@ -24,6 +38,26 @@
 &lt;p>I’d love to connect with you! Whether it’s to talk tech, career opportunities, or collaborations, feel free to reach out:&lt;/p>
 &lt;p>📧 Email: &lt;a href="mailto:soumyatajena@example.com" >soumyatajena@example.com&lt;/a>&lt;br>
 🔗 LinkedIn: &lt;a href="https://www.linkedin.com/in/soumyatajena" class="external-link" target="_blank" rel="noopener">linkedin.com/in/soumyatajena&lt;/a>&lt;/p>
-&lt;p>Let’s build something great together!&lt;/p></description></item><item><title>Projects</title><link>https://soumyatajena.github.io/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://soumyatajena.github.io/projects/</guid><description>&lt;p>Coming Soon &amp;hellip;😎&lt;/p>
-&lt;p>💎 Till then please check my projects in my GitHub account - &lt;a href="https://github.com/soumyatajena" class="external-link" target="_blank" rel="noopener">https://github.com/soumyatajena&lt;/a>&lt;/p>
-&lt;p>Thanks for your understanding ❤️&lt;/p></description></item></channel></rss>
+&lt;p>Let’s build something great together!&lt;/p></description></item><item><title>My Projects</title><link>https://soumyatajena.github.io/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://soumyatajena.github.io/projects/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
+ &lt;div style="flex: 1 1 30%; max-width: 30%;">
+ &lt;h3>Project 1&lt;/h3>
+ &lt;img src="https://soumyatajena.github.io/images/dashboard.jpg" alt="Hugo Portfolio" style="width: 100%; height: auto;" />
+ &lt;h4>Hugo Personal Portfolio&lt;/h4>
+ &lt;p>Built using Hugo and the Coder theme. Deployed via GitHub Pages.&lt;/p>
+ &lt;p>
+ 🔗 &lt;a href="https://github.com/soumyatajena/blog">GitHub&lt;/a> | 
+ 📝 &lt;a href="https://medium.com/@soumyatajena/setting-up-a-website-using-hugo-and-github-on-windows-d161c5bc7648">Medium&lt;/a>
+ &lt;/p>
+ &lt;/div>
+ &lt;div style="flex: 1 1 30%; max-width: 30%;">
+ &lt;h3>Project 2&lt;/h3>
+ &lt;img src="https://soumyatajena.github.io/images/cicdpipeline.jpg" alt="CI/CD Project" style="width: 100%; height: auto;" />
+ &lt;h4>CI/CD with GitHub Actions&lt;/h4>
+ &lt;p>Automated build &amp; deploy pipeline using GitHub Actions and Docker.&lt;/p>
+ &lt;p>
+ 🔗 &lt;a href="https://github.com/soumyatajena/GitHubCICDPipeline">GitHub&lt;/a> | 
+ 📝 &lt;a href="https://medium.com/@soumyatajena/ship-your-net-core-api-with-docker-and-github-actions-the-easy-way-6d04f6fa3494">Medium&lt;/a>
+ &lt;/p>
+ &lt;/div>
+ &lt;!-- Add more cards similarly -->
+&lt;/div></description></item></channel></rss>
