@@ -69,6 +69,6 @@
  &lt;/div&gt;
  &lt;div style="flex: 1 1 30%; max-width: 30%;"&gt;
  &lt;h3&gt;Project 3&lt;/h3&gt;
- &lt;img src="https://soumyatajena.github.io/images/cicdpipeline.jpg" alt="microservice" style="width: 100%; height: auto;" /&gt;
+ &lt;img src="https://soumyatajena.github.io/images/micro.jpg" alt="microservice" style="width: 100%; height: auto;" /&gt;
  &lt;h4&gt;Microservices Architecture&lt;/h4&gt;
  &lt;p&gt;Simple microservices architecture secured with JWT (JSON Web Token) authentication using ASP.NET Core&lt;/p&gt;</description></item></channel></rss>
