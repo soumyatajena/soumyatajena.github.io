@@ -1,63 +1,74 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PersonalWebsite</title><link>https://soumyatajena.github.io/</link><description>Recent content on PersonalWebsite</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 07 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://soumyatajena.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me 💫</title><link>https://soumyatajena.github.io/about/</link><pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate><guid>https://soumyatajena.github.io/about/</guid><description>&lt;p>Hi there! I&amp;rsquo;m &lt;b>Soumyata Jena&lt;/b> 🙋‍♀️ — a passionate, curious, and impact-driven &lt;b>.NET Developer&lt;/b> 👩‍💻 with nearly &lt;b>6 years&lt;/b> of experience building sleek, scalable web apps using &lt;b>C#, ASP.NET Core, Blazor, SQL Server, and Azure&lt;/b> ☁️.&lt;/p>
-&lt;p>I specialize in bringing ideas to life through clean architecture and intuitive UX. Whether it’s building a full-stack solution or diving deep into cloud-native services, I thrive on solving real-world problems with &lt;b>modern web technologies&lt;/b> 💡.&lt;/p></description></item><item><title>Blog</title><link>https://soumyatajena.github.io/posts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://soumyatajena.github.io/posts/</guid><description>&lt;h2 id="1-medium">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PersonalWebsite</title><link>https://soumyatajena.github.io/</link><description>Recent content on PersonalWebsite</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 07 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://soumyatajena.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me 💫</title><link>https://soumyatajena.github.io/about/</link><pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate><guid>https://soumyatajena.github.io/about/</guid><description>&lt;p&gt;Hi there! I&amp;rsquo;m &lt;b&gt;Soumyata Jena&lt;/b&gt; 🙋‍♀️ — a passionate, curious, and impact-driven &lt;b&gt;.NET Developer&lt;/b&gt; 👩‍💻 with nearly &lt;b&gt;6 years&lt;/b&gt; of experience building sleek, scalable web apps using &lt;b&gt;C#, ASP.NET Core, Blazor, SQL Server, and Azure&lt;/b&gt; ☁️.&lt;/p&gt;
+&lt;p&gt;I specialize in bringing ideas to life through clean architecture and intuitive UX. Whether it’s building a full-stack solution or diving deep into cloud-native services, I thrive on solving real-world problems with &lt;b&gt;modern web technologies&lt;/b&gt; 💡.&lt;/p&gt;</description></item><item><title>Blog</title><link>https://soumyatajena.github.io/posts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://soumyatajena.github.io/posts/</guid><description>&lt;h2 id="1-medium"&gt;
  1. Medium
- &lt;a class="heading-link" href="#1-medium">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;p>Feel free to fork, clone, and build upon this setup. Happy building! 🚀&lt;/p>
-&lt;p>Check out my code here:&lt;/p>
-&lt;p>📂 Blog Repo: &lt;a href="https://github.com/soumyatajena/blog" class="external-link" target="_blank" rel="noopener">https://github.com/soumyatajena/blog&lt;/a>&lt;/p>
-&lt;p>🌐 Live Site: &lt;a href="https://soumyatajena.github.io/" class="external-link" target="_blank" rel="noopener">https://soumyatajena.github.io/&lt;/a>&lt;/p>
-&lt;p>📙 Medium:&lt;/p>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Project&lt;/th>
- &lt;th>Url&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>Hugo Website&lt;/td>
- &lt;td>&lt;a href="https://medium.com/@soumyatajena/setting-up-a-website-using-hugo-and-github-on-windows-d161c5bc7648" class="external-link" target="_blank" rel="noopener">https://medium.com/@soumyatajena/setting-up-a-website-using-hugo-and-github-on-windows-d161c5bc7648&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>CI/CD Pipeline&lt;/td>
- &lt;td>&lt;a href="https://medium.com/@soumyatajena/ship-your-net-core-api-with-docker-and-github-actions-the-easy-way-6d04f6fa3494" class="external-link" target="_blank" rel="noopener">https://medium.com/@soumyatajena/ship-your-net-core-api-with-docker-and-github-actions-the-easy-way-6d04f6fa3494&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table></description></item><item><title>Contact</title><link>https://soumyatajena.github.io/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://soumyatajena.github.io/contact/</guid><description>&lt;h1 id="contact-me">
+ &lt;a class="heading-link" href="#1-medium"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Feel free to fork, clone, and build upon this setup. Happy building! 🚀&lt;/p&gt;
+&lt;p&gt;Check out my code here:&lt;/p&gt;
+&lt;p&gt;📂 Blog Repo: &lt;a href="https://github.com/soumyatajena/blog" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/soumyatajena/blog&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;🌐 Live Site: &lt;a href="https://soumyatajena.github.io/" class="external-link" target="_blank" rel="noopener"&gt;https://soumyatajena.github.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;📙 Medium:&lt;/p&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Project&lt;/th&gt;
+ &lt;th&gt;Url&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Hugo Website&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://medium.com/@soumyatajena/setting-up-a-website-using-hugo-and-github-on-windows-d161c5bc7648" class="external-link" target="_blank" rel="noopener"&gt;https://medium.com/@soumyatajena/setting-up-a-website-using-hugo-and-github-on-windows-d161c5bc7648&lt;/a&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;CI/CD Pipeline&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://medium.com/@soumyatajena/ship-your-net-core-api-with-docker-and-github-actions-the-easy-way-6d04f6fa3494" class="external-link" target="_blank" rel="noopener"&gt;https://medium.com/@soumyatajena/ship-your-net-core-api-with-docker-and-github-actions-the-easy-way-6d04f6fa3494&lt;/a&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Microservice Arch&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://medium.com/@soumyatajena/building-a-simple-microservices-architecture-with-jwt-authentication-in-asp-net-core-3a69dc961879" class="external-link" target="_blank" rel="noopener"&gt;https://medium.com/@soumyatajena/building-a-simple-microservices-architecture-with-jwt-authentication-in-asp-net-core-3a69dc961879&lt;/a&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Docker+Kubernetes&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://medium.com/@soumyatajena/building-a-microservice-e-commerce-ci-cd-pipeline-with-github-actions-docker-and-kubernetes-cd6955321e4a" class="external-link" target="_blank" rel="noopener"&gt;https://medium.com/@soumyatajena/building-a-microservice-e-commerce-ci-cd-pipeline-with-github-actions-docker-and-kubernetes-cd6955321e4a&lt;/a&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;</description></item><item><title>Contact</title><link>https://soumyatajena.github.io/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://soumyatajena.github.io/contact/</guid><description>&lt;h1 id="contact-me"&gt;
  Contact Me
- &lt;a class="heading-link" href="#contact-me">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h1>
-&lt;p>I’d love to connect with you! Whether it’s to talk tech, career opportunities, or collaborations, feel free to reach out:&lt;/p>
-&lt;p>📧 Email: &lt;a href="mailto:soumyatajena@example.com" >soumyatajena@example.com&lt;/a>&lt;br>
-🔗 LinkedIn: &lt;a href="https://www.linkedin.com/in/soumyatajena" class="external-link" target="_blank" rel="noopener">linkedin.com/in/soumyatajena&lt;/a>&lt;/p>
-&lt;p>Let’s build something great together!&lt;/p></description></item><item><title>My Projects</title><link>https://soumyatajena.github.io/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://soumyatajena.github.io/projects/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
- &lt;div style="flex: 1 1 30%; max-width: 30%;">
- &lt;h3>Project 1&lt;/h3>
- &lt;img src="https://soumyatajena.github.io/images/dashboard.jpg" alt="Hugo Portfolio" style="width: 100%; height: auto;" />
- &lt;h4>Hugo Personal Portfolio&lt;/h4>
- &lt;p>Built using Hugo and the Coder theme. Deployed via GitHub Pages.&lt;/p>
- &lt;p>
- 🔗 &lt;a href="https://github.com/soumyatajena/blog">GitHub&lt;/a> | 
- 📝 &lt;a href="https://medium.com/@soumyatajena/setting-up-a-website-using-hugo-and-github-on-windows-d161c5bc7648">Medium&lt;/a>
- &lt;/p>
- &lt;/div>
- &lt;div style="flex: 1 1 30%; max-width: 30%;">
- &lt;h3>Project 2&lt;/h3>
- &lt;img src="https://soumyatajena.github.io/images/cicdpipeline.jpg" alt="CI/CD Project" style="width: 100%; height: auto;" />
- &lt;h4>CI/CD with GitHub Actions&lt;/h4>
- &lt;p>Automated build &amp; deploy pipeline using GitHub Actions and Docker.&lt;/p>
- &lt;p>
- 🔗 &lt;a href="https://github.com/soumyatajena/GitHubCICDPipeline">GitHub&lt;/a> | 
- 📝 &lt;a href="https://medium.com/@soumyatajena/ship-your-net-core-api-with-docker-and-github-actions-the-easy-way-6d04f6fa3494">Medium&lt;/a>
- &lt;/p>
- &lt;/div>
- &lt;!-- Add more cards similarly -->
-&lt;/div></description></item></channel></rss>
+ &lt;a class="heading-link" href="#contact-me"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;I’d love to connect with you! Whether it’s to talk tech, career opportunities, or collaborations, feel free to reach out:&lt;/p&gt;
+&lt;p&gt;📧 Email: &lt;a href="mailto:soumyatajena@example.com" &gt;soumyatajena@example.com&lt;/a&gt;&lt;br&gt;
+🔗 LinkedIn: &lt;a href="https://www.linkedin.com/in/soumyatajena" class="external-link" target="_blank" rel="noopener"&gt;linkedin.com/in/soumyatajena&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Let’s build something great together!&lt;/p&gt;</description></item><item><title>My Projects</title><link>https://soumyatajena.github.io/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://soumyatajena.github.io/projects/</guid><description>&lt;div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;"&gt;
+ &lt;div style="flex: 1 1 30%; max-width: 30%;"&gt;
+ &lt;h3&gt;Project 1&lt;/h3&gt;
+ &lt;img src="https://soumyatajena.github.io/images/dashboard.jpg" alt="Hugo Portfolio" style="width: 100%; height: auto;" /&gt;
+ &lt;h4&gt;Hugo Personal Portfolio&lt;/h4&gt;
+ &lt;p&gt;Built using Hugo and the Coder theme. Deployed via GitHub Pages.&lt;/p&gt;
+ &lt;p&gt;
+ 🔗 &lt;a href="https://github.com/soumyatajena/blog"&gt;GitHub&lt;/a&gt; | 
+ 📝 &lt;a href="https://medium.com/@soumyatajena/setting-up-a-website-using-hugo-and-github-on-windows-d161c5bc7648"&gt;Medium&lt;/a&gt;
+ &lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div style="flex: 1 1 30%; max-width: 30%;"&gt;
+ &lt;h3&gt;Project 2&lt;/h3&gt;
+ &lt;img src="https://soumyatajena.github.io/images/cicdpipeline.jpg" alt="CI/CD Project" style="width: 100%; height: auto;" /&gt;
+ &lt;h4&gt;CI/CD with GitHub Actions&lt;/h4&gt;
+ &lt;p&gt;Automated build &amp; deploy pipeline using GitHub Actions and Docker.&lt;/p&gt;
+ &lt;p&gt;
+ 🔗 &lt;a href="https://github.com/soumyatajena/GitHubCICDPipeline"&gt;GitHub&lt;/a&gt; | 
+ 📝 &lt;a href="https://medium.com/@soumyatajena/ship-your-net-core-api-with-docker-and-github-actions-the-easy-way-6d04f6fa3494"&gt;Medium&lt;/a&gt;
+ &lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div style="flex: 1 1 30%; max-width: 30%;"&gt;
+ &lt;h3&gt;Project 3&lt;/h3&gt;
+ &lt;img src="https://soumyatajena.github.io/images/cicdpipeline.jpg" alt="microservice" style="width: 100%; height: auto;" /&gt;
+ &lt;h4&gt;Microservices Architecture&lt;/h4&gt;
+ &lt;p&gt;Simple microservices architecture secured with JWT (JSON Web Token) authentication using ASP.NET Core&lt;/p&gt;</description></item></channel></rss>
